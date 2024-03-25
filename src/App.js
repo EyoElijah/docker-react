@@ -8,7 +8,8 @@ function App() {
         <img src={logo} className='App-logo' alt='logo' />
         <p>
           Hello <code>There</code>! <br />
-          Feels <code>Good to code in reactjs</code>!
+          Feels <code>Good to code in reactjs</code>! You{' '}
+          <code>Should try it out</code>someday!
         </p>
         <a
           className='App-link'
